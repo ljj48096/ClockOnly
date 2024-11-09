@@ -5,4 +5,4 @@
 感觉会蛮适合考研或者复习的时候用的。  
 
 ## 运行效果
-![图片描述](images/example.png)
+![图片描述](example.png)
